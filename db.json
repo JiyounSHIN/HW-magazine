@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "img": "json-server",
+      "text": "typicode"
+    },
+    {
+      "id": 1,
+      "img": "json-server",
+      "text": "typicode2"
+    },
+    {
+      "id": 2,
+      "img": "이미지는 어떻게",
+      "text": "test 3번 중"
+    },
+    {
+      "img": "sometingNEW",
+      "text": "typicode",
+      "id": 3
+    },
+    {
+      "img": "sometingNEW",
+      "text": "typicode",
+      "id": 4
+    },
+    {
+      "img": "sometingNEW",
+      "text": "typicode",
+      "id": 5
+    },
+    {
+      "img": "sometingNEW",
+      "text": "typicode",
+      "id": 6
+    },
+    {
+      "img": "axiosdata",
+      "text": "typicode",
+      "id": 7
+    },
+    {
+      "img": "axiosdata",
+      "text": "typicode",
+      "id": 8
+    },
+    {
+      "img": "axiosdata",
+      "text": "typicode",
+      "id": 9
+    },
+    {
+      "img": "axiosdata",
+      "text": "typicode",
+      "id": 10
+    },
+    {
+      "img": "axiosdata",
+      "text": "typicode",
+      "id": 11
+    },
+    {
+      "img": "axiosdata",
+      "text": "typicode",
+      "id": 12
+    },
+    {
+      "img": "axiosdata",
+      "text": "typicode",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

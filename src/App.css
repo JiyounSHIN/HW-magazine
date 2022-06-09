@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  font-family: PoorStory;
+  font-size : 20px;
 }
 
 .App-logo {
@@ -12,6 +14,12 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
+@font-face{
+  font-family : PoorStory;
+  src:url('./styled/fonts/PoorStory-Regular.ttf')
+}
+
 
 .App-header {
   background-color: #282c34;
